@@ -12,3 +12,5 @@ D:\Study\SourceCode\NetCore\2019-08\2019-08-26\BooksStore\BooksApi\obj\Debug\net
 D:\Study\SourceCode\NetCore\2019-08\2019-08-26\BooksStore\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
 D:\Study\SourceCode\NetCore\2019-08\2019-08-26\BooksStore\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
 D:\Study\SourceCode\NetCore\2019-08\2019-08-26\BooksStore\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
+D:\Study\SourceCode\NetCore\2019-08\2019-08-26\BooksStore\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.xml
+D:\Study\SourceCode\NetCore\2019-08\2019-08-26\BooksStore\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.xml
